@@ -1,6 +1,0 @@
-Student Result
------------------
-Name: kavi
-Marks: [33, 4, 46]
-Average: 27.67
-Grade: Fail
